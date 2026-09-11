@@ -65,6 +65,6 @@ This project simulates a real-world business intelligence reporting scenario for
 premkumar.adimalla@gmail.com
 (www.linkedin.com/in/prem-adimalla)
 
-## Screenshot
+## Screenshots
 
-()()()
+(https://github.com/Prem-7733/Global-Electronics-Sales-Performance-Analysis/blob/main/Overview.png)(https://github.com/Prem-7733/Global-Electronics-Sales-Performance-Analysis/blob/main/Product%26Brand%20Performance.png)(https://github.com/Prem-7733/Global-Electronics-Sales-Performance-Analysis/blob/main/Geography%20Performance.png)
