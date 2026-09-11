@@ -63,4 +63,4 @@ This project simulates a real-world business intelligence reporting scenario for
 
 **Adimalla Prem Kumar**
 premkumar.adimalla@gmail.com
-(LinkedIn)
+(www.linkedin.com/in/prem-adimalla)
